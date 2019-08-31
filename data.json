@@ -1,0 +1,47 @@
+{
+    "tabletitle":[
+    {
+      "id": 1,
+      "title": "报表名称"
+    },
+    {
+      "id": 2,
+      "title": "报表类型"
+    },
+    {
+      "id": 3,
+      "title": "创建人"
+    },
+    {
+      "id": 4,
+      "title": "创建人角色"
+    },
+    {
+      "id": 5,
+      "title": "数据范围"
+    },
+    {
+      "id": 6,
+      "title": "最近执行时间"
+    },
+    {
+      "id": 7,
+      "title": "执行状态"
+    },
+    {
+      "id": 8,
+      "title": "操作"
+    }],
+    "data1": [
+      {"id":1000,"tablename": "test1", "tabletype": "综合报告", "founder": "tapadmin123", "Character": "演示用角色", "datarange": "2019-03-30至2019-04-10", "latesttime":"2019-04-28 16:21:48", "tablestatus": "成功"},
+      {"id":1001,"tablename": "test2", "tabletype": "告警统计", "founder": "tapadmin234", "Character": "演示用角色", "datarange": "2019-03-30至2019-04-10", "latesttime":"2019-04-28 16:21:48", "tablestatus": "失败"},
+      {"id":1002,"tablename": "test3", "tabletype": "受害资产统计", "founder": "tapadmin345", "Character": "演示用角色", "datarange": "2019-03-30至2019-04-10", "latesttime":"2019-04-28 16:21:48", "tablestatus": "成功"},
+      {"id":1003,"tablename": "test4", "tabletype": "综合报告", "founder": "tapadmin456", "Character": "演示用角色", "datarange": "2019-03-30至2019-04-10", "latesttime":"2019-04-28 16:21:48", "tablestatus": "失败"},
+      {"id":1004,"tablename": "test5", "tabletype": "告警统计", "founder": "tapadmin567", "Character": "演示用角色", "datarange": "2019-03-30至2019-04-10", "latesttime":"2019-04-28 16:21:48", "tablestatus": "执行中"},
+      {"id":1005,"tablename": "test6", "tabletype": "系统维护", "founder": "tapadmin456", "Character": "演示用角色", "datarange": "2019-03-30至2019-04-10", "latesttime":"2019-04-28 16:21:48", "tablestatus": "执行中"},
+      {"id":1006,"tablename": "test7", "tabletype": "攻击者统计", "founder": "tapadmin234", "Character": "演示用角色", "datarange": "2019-03-30至2019-04-10", "latesttime":"2019-04-28 16:21:48", "tablestatus": "成功"}
+    ],
+    "login": [{
+      "username": "anyone", "userId": "123123"
+    }]
+  }
